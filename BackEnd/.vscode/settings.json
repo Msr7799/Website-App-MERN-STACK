@@ -1,6 +1,11 @@
 {
     "C_Cpp.autocompleteAddParentheses": true,
     "d.argumentSnippets": true,
-    "editor.defaultFormatter": "JeremySemel.azurescribeai",
-    "python.analysis.autoImportCompletions": true
+    "editor.defaultFormatter": "GitHub.copilot",
+    "python.analysis.autoImportCompletions": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "AllAutocomplete.showCurrentDocument": true,
+    "files.autoSave": "afterDelay"
 }

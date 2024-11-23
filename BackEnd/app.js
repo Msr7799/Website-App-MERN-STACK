@@ -16,8 +16,13 @@ const app = express();
 //**** Middleware ****
 app.use(express.json());
 
+
+
 //**** Routes ****
 
+
+app.use("/api/auth", require("./routes/authroute"));
+app.use("/api/users", require("./routes/usersRoute"));
 
 
 //**** Running The Server ****
