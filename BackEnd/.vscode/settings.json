@@ -1,0 +1,6 @@
+{
+    "C_Cpp.autocompleteAddParentheses": true,
+    "d.argumentSnippets": true,
+    "editor.defaultFormatter": "JeremySemel.azurescribeai",
+    "python.analysis.autoImportCompletions": true
+}

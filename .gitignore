@@ -1,0 +1,11 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore local history
+.lh/
+
+# Ignore other unnecessary files
+.DS_Store

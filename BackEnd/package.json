@@ -1,0 +1,20 @@
+{
+  "name": "msrwebsite",
+  "version": "1.0.0",
+  "description": "backend of website application",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "mohamed alromaihi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^8.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
